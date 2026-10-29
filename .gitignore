@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+cache/
+data/
+predictions/
+evaluation/
+*.joblib
