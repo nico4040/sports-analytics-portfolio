@@ -11,6 +11,7 @@ I study Data Analytics and Economics at Berry College, where I expect to graduat
 | --- | --- | --- |
 | [NFL touchdown model](projects/nfl-touchdowns.md) | How likely is a player to score a rushing or receiving touchdown? | Data preparation, lagged usage features, model comparison, calibration, and forecast tracking |
 | [NHL points model](projects/nhl-points.md) | How likely is a skater to record at least one point? | API data collection, rolling features, ensemble modeling, chronological evaluation, and reporting |
+| [MLB home run model](projects/mlb-home-runs.md) | How likely is a starting hitter to homer? | Statcast features, pitcher matchups, regularized regression, calibration, and lineup-aware reporting |
 | [Pirates attendance research](projects/pirates-attendance.md) | How are star players and promotions associated with attendance? | Sports economics, regression analysis, and communicating business implications |
 
 ## Featured: NFL touchdown probabilities
